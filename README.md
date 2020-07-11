@@ -1,4 +1,4 @@
-![doh](https://jeffreymfarley.github.io/showcase/images/mocking-elasticsearch.gif)
+![doh](Redux-Cycle.gif)
 
 ## [My Showcase](https://jeffreymfarley.github.io/showcase/)
 
